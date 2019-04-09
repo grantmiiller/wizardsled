@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Wizard Sled Store</title>
+  <script type="text/javascript" src="assets/form.js"></script>
 </head>
 <body>
   <h1>Welcome to the Wizard Sled Store!</h1>
