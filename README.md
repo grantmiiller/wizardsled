@@ -2,6 +2,8 @@
 
 WARNING: THIS IS PURPOSEFULLY VULNERABLE, DO NOT USE IN A PRODUCTION ENVIRONMENT
 
+This is for educational purposes only and to learn how to avoid these types of exploits in your own application.
+
 Exploit instructions in [Exploit.md](https://github.com/grantmiiller/wizardsled/blob/master/Exploit_Steps.md)
 
 ## To get app running
