@@ -1,2 +1,3 @@
 *.swp
 app/shell.php
+logs/*.log

