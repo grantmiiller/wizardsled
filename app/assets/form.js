@@ -25,8 +25,8 @@ function createModal() {
   closeText.className = "close-modal-text";
   closeText.textContent = "(Click anywhere to close)";
 
-  innerDiv.appendChild(closeText);
   innerDiv.appendChild(innerText);
+  innerDiv.appendChild(closeText);
   outerDiv.appendChild(innerDiv);
   docFrag.appendChild(outerDiv);
   document.body.appendChild(docFrag);
